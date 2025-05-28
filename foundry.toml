@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+libs = ["lib"]
+out = "/mnt/data_disk/build/foundry-out"
+cache_path = "/mnt/data_disk/build/foundry-cache"
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
